@@ -1,6 +1,7 @@
 # Walmart-Sales-Analysis
 
 📊 Walmart Sales Analysis – Summary & Insights
+
 1️⃣ Sales Overview
 Total Sales: $15.26M
 Total Orders: 15K
@@ -12,6 +13,7 @@ Average Customer Age: 44.12 years
 
 Introduce targeted promotions for this age group (40-50 years old) with loyalty programs or exclusive discounts.
 Assess if inventory turnover matches demand, avoiding overstocking or shortages.
+
 2️⃣ Sales by Products
 Top-selling products:
 
@@ -31,6 +33,7 @@ Laptops have lower sales than expected, despite being a common consumer electron
 
 Promote bundle offers (e.g., TV + Sound System, Laptop + Accessories) to boost sales.
 Investigate why laptops are underperforming (pricing, competition, or customer preference).
+
 3️⃣ Sales by Category
 Electronics: $7.9M
 Appliances: $7.3M
@@ -40,6 +43,7 @@ Appliances: $7.3M
 
 Expand marketing for appliances, especially around holiday sales and special promotions.
 Offer financing options for big-ticket electronics to increase sales.
+
 4️⃣ Sales by Weekdays
 Highest Sales Days: Thursday & Monday (~$2.4M each)
 Lowest Sales Day: Sunday (~$1.9M)
@@ -49,6 +53,7 @@ Lowest Sales Day: Sunday (~$1.9M)
 
 Increase weekend promotions to balance traffic across the week.
 Launch exclusive Sunday discount deals to boost sales.
+
 5️⃣ Sales by Gender
 Female: 34.03%
 Male: 31.96%
@@ -59,6 +64,7 @@ Other: 34.02%
 
 Personalize marketing campaigns for different genders (e.g., targeted promotions for female shoppers).
 Expand gender-neutral product offerings.
+
 6️⃣ Monthly Sales (Running Sales Trend)
 January: $1.73M
 February: $3.49M
@@ -77,7 +83,9 @@ August had a notable jump, possibly due to seasonal back-to-school promotions.
 
 Identify the factors behind peak months and replicate successful strategies.
 Plan seasonal promotions for high-demand months.
+
 📌 Final Recommendations Summary
+
 ✅ Target middle-aged customers with personalized offers.
 ✅ Offer bundle discounts to increase cross-category purchases.
 ✅ Improve weekend sales with exclusive promotions.
