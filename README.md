@@ -84,3 +84,5 @@ Plan seasonal promotions for high-demand months.
 ✅ Focus on gender-specific marketing campaigns.
 ✅ Replicate strategies that led to August’s peak sales.
 ✅ Optimize inventory levels based on demand patterns.
+
+![Image](https://github.com/user-attachments/assets/63e6a9d5-8d4a-4ee6-9da8-d4adc89d56fd)
